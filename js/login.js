@@ -1,7 +1,7 @@
 //
 // Script do Login
 //
-link = "https://back-end-recados.herokuapp.com/"; //"http://localhost:3000"
+link = "https://back-end-recados.herokuapp.com", "http://localhost:8080";
 
 // if (!localStorage.getItem("user")) {
 //   user = new Object(); // Cria objetos{} se não existir

@@ -2,7 +2,7 @@
 // Script Cadastro
 //
 
-const link = "https://back-end-recados.herokuapp.com/";
+const link = ("https://back-end-recados.herokuapp.com", "http:localhost:8080");
 
 //alert não é resevado mas da conflito com comando alert
 var alert1 = document.getElementById("alert");
