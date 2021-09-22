@@ -3,7 +3,7 @@
 //
 
 var data;
-const link = ("https://back-end-recados.herokuapp.com", "http:localhost:8080");
+const link = ("https://back-end-recados.herokuapp.com/", "http:localhost:8080");
 
 var userLocalStorage = localStorage.getItem("user");
 var user = JSON.parse(userLocalStorage); // Retorna se ja existe
