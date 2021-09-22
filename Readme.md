@@ -1,3 +1,7 @@
-## Lista Front API
+# Lista de Recados
 
-[Heroku Buildpack](https://github.com/heroku/heroku-buildpack-static.git)
+````
+Front-end para o projeto final do módulo back-end
+
+````
+https://front-end-recados.herokuapp.com/
